@@ -1,13 +1,17 @@
 {
   "name": "beholdable",
-  "version": "1.0.1",
-  "description": "Observable objects with variable verbiage",
+  "version": "1.0.2",
+  "description": "Observable objects with variable verbiage.",
   "main": "beholdable.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": "node test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vantaure/beholdable"
   },
   "author": "Tony McCoy <toonytony@gmail.com>",
   "license": "MIT"

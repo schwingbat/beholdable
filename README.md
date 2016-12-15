@@ -1,5 +1,5 @@
 # BEHOLD!
-## Beholdable.js v1.0.1
+## Beholdable.js
 
 ### What?
 
