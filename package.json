@@ -1,0 +1,14 @@
+{
+  "name": "beholdable",
+  "version": "1.0.1",
+  "description": "Observable objects with variable verbiage",
+  "main": "beholdable.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test"
+  },
+  "author": "Tony McCoy <toonytony@gmail.com>",
+  "license": "MIT"
+}
